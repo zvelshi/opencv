@@ -1,0 +1,2 @@
+# OpenCV
+Learning about OpenCV
