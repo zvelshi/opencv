@@ -1,2 +1,2 @@
-# opencv
+# OpenCV
 Learning about OpenCV
